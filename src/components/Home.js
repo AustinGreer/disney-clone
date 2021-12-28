@@ -42,6 +42,7 @@ const Content = styled.div`
 
     .cta-button {
         background: #0063e5;
+        text-transform: uppercase;
         color: #f9f9f9;
         border-radius: 4px;
         border: none;
@@ -49,7 +50,7 @@ const Content = styled.div`
         text-align: center;
         font-weight: 400;
         letter-spacing: 1px;
-        padding: 2% 15%;
+        padding: 1.2% 10%;
         cursor: pointer;
         margin-bottom: 1%;
 
